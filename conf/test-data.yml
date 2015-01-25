@@ -1,0 +1,8 @@
+# User
+
+users:
+
+    - !!seinsr.security.User
+        emailAddress:      dwilliams@seinsr.com
+        fullName:          David Williams
+        password:          secret
